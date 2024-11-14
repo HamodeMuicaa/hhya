@@ -1,6 +1,6 @@
 schedule
-bs4 0.0.2
-pycountry 24.6.1
+bs4
+pycountry
 rendom
 datetime
 re
