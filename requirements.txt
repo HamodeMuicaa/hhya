@@ -9,4 +9,3 @@ logging
 asyncio
 telethon
 user_agent
-base64
